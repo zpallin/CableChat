@@ -49,3 +49,7 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# https://www.sitepoint.com/create-a-chat-app-with-rails-5-actioncable-and-devise/
+gem 'devise'
+gem 'bootstrap', '~> 4.0.0.alpha3'
